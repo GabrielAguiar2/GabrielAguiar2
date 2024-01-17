@@ -10,9 +10,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<!--<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/gabrielaguiar2/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="logo-linkedin" height="30" width="40" /></a>
-<a href="your link" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="logo-instagram" height="30" width="40"/></a>
+<a href="https://instagram.com/gabrielmdeaguiar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="logo-instagram" height="30" width="40"/></a>
 <a href="mailto:gabriel.maguiar2@gmail.com" target="_blanck"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"height="30" width="40"/></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiar2&layout=compact&theme=buefy&hide_borde"> 
